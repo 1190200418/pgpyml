@@ -2,6 +2,8 @@
 
 This repository contains an Postgres extension that allows you to run your machine learning algorithms written in python and invoke them on Postgres. This way you can write your script in the way you are used to, and apply it right on your data. You can train and save your `sklearn` models and call then with the data stored on Postgres.
 
+# EXTENSION UPDTAE
+model_slice function is added to `pgpyml_try--0.3.1--0.3.2.sql`
 **Contributions and suggestions are welcome**.
 
 # Install
