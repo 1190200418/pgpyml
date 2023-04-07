@@ -1,0 +1,5 @@
+comment = 'pgpyml_try version update to see if clf is usually stored in memory'
+default_version = '0.3.2'
+module_pathname = '$libdir/pgpyml_try'
+relocatable = false
+requires = plpython3u
